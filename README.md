@@ -42,11 +42,12 @@ Built for developers who value clean, expressive, and context-rich logs — with
 ```kotlin
 
 ```
-
+TODO - I have published the source and will publish the built artifacts at some point.
 <sub>Replace `x.y.z` with the latest published version.</sub>
 
 Or include locally:
 
+TODO - I have published the source and will publish the built artifacts at some point.
 ```kotlin
 
 ```
